@@ -20,7 +20,6 @@ public class Demo_Employee {
         for (Employee var : list){
             System.out.println("Student name :  " +var.getName() + " : Employee code : " +var.getEmployeecode() + " : Depatrment : " +var.getDepartment());
         }
-
     }
 
     public static void main(String[] args) {
